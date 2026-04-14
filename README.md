@@ -38,3 +38,4 @@ Database:
 --> MongoDB / MySQL
 
 git link:https://github.com/Srikrutha06/FUTURE_FS_02
+live demo:https://srikrutha06.github.io/FUTURE_FS_02/
